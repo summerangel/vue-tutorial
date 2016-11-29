@@ -1,6 +1,6 @@
 # vue-tutorial
 
-> A Vue.js project
+> A Vue.js project，refer to https://github.com/MeCKodo/vue-tutorial
 
 ## Build Setup
 
